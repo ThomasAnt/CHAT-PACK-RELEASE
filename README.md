@@ -3,4 +3,4 @@
 
 - [System Specification](Manuals/SystemSpecification.pdf)
 
-- [Projekt Proposal](Manuals/ProjektProposal.pdf)
+- [Projekt Proposal](Manuals/ProjectProposal.odt)
