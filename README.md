@@ -2,3 +2,5 @@
 [Manuals](Manuals)
 
 - [System Specification](Manuals/SystemSpecification.pdf)
+
+- [Projekt Proposal](Manuals/ProjectProposal.odt)
