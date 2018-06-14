@@ -1,2 +1,2 @@
 # CHAT-PACK-RELEASE
-[System Specification](manuals/SystemSpecification.pdf)
+[System Specification](manuals/SystemSpecification)
