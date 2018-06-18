@@ -1,6 +1,6 @@
 # CHAT-PACK-RELEASE
-[Release Notes](/Release Notes.txt)
 
+[Release Notes](Release Notes.txt)
 
 [Manuals](Manuals)
 
