@@ -1,4 +1,7 @@
 # CHAT-PACK-RELEASE
+[Release Notes](Release Notes.txt)
+
+
 [Manuals](Manuals)
 
 - [System Specification](Manuals/SystemSpecification.pdf)
@@ -9,4 +12,4 @@
 
 - [Test Report](Testing/TestReport.docx)
 
-- [Test Report](Testing/TestSpecification.docx)
+- [Test Specification](Testing/TestSpecification.docx)
