@@ -10,3 +10,5 @@
 - [Test Report](Testing/TestReport.docx)
 
 - [Test Specification](Testing/Test Specification.docx)
+
+[Release Notes](Release Notes.txt)
