@@ -11,4 +11,4 @@
 
 - [Test Specification](Testing/Test Specification.docx)
 
-[Release Notes](Release Notes.txt)
+- [Release Notes](Release Notes.txt)
