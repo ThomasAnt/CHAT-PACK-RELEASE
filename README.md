@@ -1,6 +1,5 @@
 # CHAT-PACK-RELEASE
-<img src="logo.png" height="24" width="24">
-![alt text](logo.png)
+<img src="logo.png" height="100" width="100">
 
 [Program](Program)
 
