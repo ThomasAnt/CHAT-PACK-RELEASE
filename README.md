@@ -5,7 +5,7 @@
 
 - - [Manual](Program/Manuals/Manual.docx)
 
-- [Release Note](Program/Release Note.docx)
+- [Release Note](Program/ReleaseNote.docx)
 
 [Documentation](Documentation)
 
@@ -23,6 +23,6 @@
 
 - [Projekt Proposal](Documentation/ProjectProposal.pdf)
 
-- [Legal Stuff](Documentation/Legal Stuff)
+- [Legal Stuff](Documentation/LegalStuff)
 
-- - [Licence](Documentation/Legal Stuff/Licence.docx)
+- - [Licence](Documentation/LegalStuff/Licence.docx)
