@@ -1,6 +1,12 @@
 # CHAT-PACK-RELEASE
 [Program](Program)
 
+- [Manuals](Program/Manuals)
+
+- - [Manul](Program/Manuals/Manual.docx)
+
+- [Release Note](Program/Release Note.txt)
+
 [Documentation](Documentation)
 
 - [Testing](Testing)
