@@ -1,8 +1,6 @@
 # CHAT-PACK-RELEASE
 
-[Release Notes](Release Notes.txt)
-
-[Source Code](Source Code)
+[Release Notes](Program/Release Notes.txt)
 
 - [Server](Source Code/Server)
 
