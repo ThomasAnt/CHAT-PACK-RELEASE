@@ -13,13 +13,13 @@
 
 [Documentation](Documentation)
 
-- [Testing](Testing)
+- [Testing](Documentation/Testing)
 
-- - [Test Report](Testing/TestReport.docx)
+- - [Test Report](Documentation/Testing/TestReport.docx)
 
-- - [Test Specification](Testing/TestSpecification.docx)
+- - [Test Specification](Documentation/Testing/TestSpecification.docx)
 
-- - [Test Result](Testing/TestResult.xlsx)
+- - [Test Result](Documentation/Testing/TestResult.xlsx)
 
 - [Monitoring Sheet](Documentation/monitoring.xlsx)
 
