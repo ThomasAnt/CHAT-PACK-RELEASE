@@ -9,7 +9,7 @@
 
 - - [Manual](Program/Manuals/Manual.docx)
 
-- [Release Note](Program/ReleaseNote.docx)
+- [Release Note](Program/ReleaseNotes.docx)
 
 [Documentation](Documentation)
 
