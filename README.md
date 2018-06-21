@@ -1,4 +1,6 @@
 # CHAT-PACK-RELEASE
+![alt text](logo.png)
+
 [Program](Program)
 
 - [Manuals](Program/Manuals)
