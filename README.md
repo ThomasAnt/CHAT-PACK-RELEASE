@@ -1,5 +1,5 @@
 # CHAT-PACK-RELEASE
-<img src="logo.png" height="700" width="500">:Zentriert
+:<img src="logo.png" height="700" width="500">:
 
 [Program](Program)
 
