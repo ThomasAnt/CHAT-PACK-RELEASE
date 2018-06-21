@@ -1,11 +1,4 @@
 # CHAT-PACK-RELEASE
-
-[Release Notes](Program/Release Notes.txt)
-
-- [Server](Source Code/Server)
-
-- [Client](Source Code/Client)
-
 [Documentation](Documentation)
 
 - [Testing](Testing)
