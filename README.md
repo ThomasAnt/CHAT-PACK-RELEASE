@@ -3,7 +3,7 @@
 
 - [Manuals](Program/Manuals)
 
-- - [Manul](Program/Manuals/Manual.docx)
+- - [Manual](Program/Manuals/Manual.docx)
 
 - [Release Note](Program/Release Note.txt)
 
@@ -15,7 +15,7 @@
 
 - - [Test Specification](Testing/TestSpecification.docx)
 
-- - [Test Results](Testing/TestResult.xlsx)
+- - [Test Result](Testing/TestResult.xlsx)
 
 - [Monitoring Sheet](Documentation/monitoring.xlsx)
 
