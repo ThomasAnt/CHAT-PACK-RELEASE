@@ -19,7 +19,7 @@
 
 - - [Test Specification](Documentation/Testing/TestSpecification.docx)
 
-- - [Test Result](Documentation/Testing/TestResult.xlsx)
+- - [Test Result](Documentation/Testing/TestResults.xlsx)
 
 - [Monitoring Sheet](Documentation/monitoring.xlsx)
 
