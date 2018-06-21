@@ -2,18 +2,6 @@
 
 [Release Notes](Release Notes.txt)
 
-[Manuals](Manuals)
-
-- [System Specification](Manuals/SystemSpecification.pdf)
-
-- [Projekt Proposal](Manuals/ProjectProposal.pdf)
-
-[Testing](Testing)
-
-- [Test Report](Testing/TestReport.docx)
-
-- [Test Specification](Testing/TestSpecification.docx)
-
 [Source Code](Source Code)
 
 - [Server](Source Code/Server)
@@ -22,8 +10,14 @@
 
 [Documentation](Documentation)
 
-- [Monitoring Sheet](Documentation/Monitoring Sheet)
+- [Testing](Testing)
 
-- [System Specification](Manuals/SystemSpecification.pdf)
+- - [Test Report](Testing/TestReport.docx)
 
-- [Projekt Proposal](Manuals/ProjectProposal.pdf)
+- - [Test Specification](Testing/TestSpecification.docx)
+
+- [Monitoring Sheet](Documentation/monitoring.xlsx)
+
+- [System Specification](Documentation/SystemSpecification.pdf)
+
+- [Projekt Proposal](Documentation/ProjectProposal.pdf)
