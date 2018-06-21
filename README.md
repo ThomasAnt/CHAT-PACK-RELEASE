@@ -3,8 +3,6 @@
 
 [Program](Program)
 
-- [Executeable](Program/InstallerExecuteable) 
-
 - [Source Code](Program/SourceCode)
 
 - [Manuals](Program/Manuals)
